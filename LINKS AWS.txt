@@ -1,0 +1,53 @@
+Use 
+
+test deployment
+
+big data anlytics
+
+cloud storage
+
+faster recovery
+
+
+EX: Hotstar, netflix completly based on cloud.
+
+
+cloud provider
+aws
+google
+alibaba
+IBM Cloud
+------------------------------------------------------------
+
+Amazon captured 32 % of marlet
+
+Pay for services as per use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://aws.amazon.com/free/?trk=16847e0c-46fb-467d-91ee-6e259e339665&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-BI|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!10!72086886959545!72087332088569&ef_id=481eff925dff1290f4ba9d7072165d90:G:s&s_kwcid=AL!4422!10!72086886959545!72087332088569&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+
+
+
+
+
+
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html

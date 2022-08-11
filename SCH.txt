@@ -1,0 +1,51 @@
+1. BA - 42----20 complete  
+[22 rem = 22]
+
+2. Unix = 11 
+[5 days]
+
+3. Git - 4
+[1 day] 
+
+4. Python = 41
+[20 days]
+
+5. SQL, SQL_Digember = 2, POST Gre SQL = 6
+
+[20 days]
+ 
+6. ETL = 16+3 {Test case}
+
+[7 days]
+
+7. Big data = 7
+
+[5 days]
+
+8. Cloud - 4 lecture
+
+[2 day]
+ 
+Project
+
+
+1. Insurance - 2
+
+2. Telecom
+
+
+
+
+
+
+
+
+
+===================================
+English
+
+HR Round
+
+Telephonic Interview
+
+Tell me about yourself 

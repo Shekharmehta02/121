@@ -1,0 +1,67 @@
+lecture 15 
+
+1.17 hour after that agile is there see for reference when you are free.
+
+==========================================================================
+
+Where to find bottom approach, in which video 16 or 17?
+
+lecture 17 
+
+What is at starting of self join
+
+==========================================================================
+Lecture 18
+ 
+ [ 1.20.59 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q. do you involved in compatibility testing?
+
+Cloud & browser compatibility 
+
+Cross browsing compatibility
+version comparision
+
+=========================================================================================================
+Does test engineer  test only one browser during browser testing?
+ 
+If he is testing for chrome browser 
+so with which browser he should compare and with how many number of browser he should comparing.
+
+is that things are mentioned in requirements or not??
+
+=========================================================================================================
+In browser testing we validate only hyperlink or other than that we validate some things or not
+
+==========================================================================================================
+
+Lecture 23
+
+How two system communicate?
+
+could you please explain project in intersystem testing?
+
